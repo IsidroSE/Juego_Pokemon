@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Juego_Pokemon</string>
+    <string name="menu_titulo">Adivina el Pokemon</string>
+    <string name="menu_jugar">Jugar</string>
+    <string name="menu_acerca">Acerca</string>
+    <string name="menu_otro">Lista de Pokemon</string>
+    <string name="jugar_aceptar">Aceptar</string>
+    <string name="creditos_desarrollador">Desarrollado por:</string>
+    <string name="jugar_titulo">¿Quién es ese Pokemon?</string>
+</resources>

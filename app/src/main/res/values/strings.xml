@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Pokemon Game</string>
+    <string name="menu_titulo">Guess the pokemon</string>
+    <string name="menu_jugar">Play</string>
+    <string name="menu_acerca">About</string>
+    <string name="menu_otro">Pokemon List</string>
+    <string name="jugar_aceptar">OK</string>
+    <string name="creditos_desarrollador">Developed by:</string>
+    <string name="desarrollador_nombre">Isidro Sotoca Estruch</string>
+    <string name="creditos_version">V1.0</string>
+    <string name="jugar_titulo">Who\'s that pokemon</string>
+</resources>
